@@ -1,0 +1,20 @@
+{
+  "name": "bot1-master",
+  "version": "1.0.0",
+  "description": "update bota",
+  "main": "main.js",
+  "dependencies": {
+    "ascii-art": "^2.1.6",
+    "canvas": "^2.6.0",
+    "discord.js": "^11.4.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "util": "^0.12.1",
+    "ytdl-core": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ineedsunshine",
+  "license": "ISC"
+}
